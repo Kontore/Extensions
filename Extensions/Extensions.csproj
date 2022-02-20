@@ -18,6 +18,7 @@
 	<NeutralLanguage>en-US</NeutralLanguage>
 	<PackageIcon>StralsundCityHall_512x512.jpg</PackageIcon>
 	<AssemblyName>Kontore.Extensions</AssemblyName>
+	<PackageProjectUrl>https://github.com/Kontore/Extensions</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
