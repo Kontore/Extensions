@@ -1,7 +1,7 @@
 ﻿using System.Drawing;
-using Tigerros.Extensions.MathXN;
+using Kontore.Extensions.MathXN;
 
-namespace Tigerros.Extensions.DrawingXN {
+namespace Kontore.Extensions.DrawingXN {
 	public static class ColorX {
 		/// <summary>
 		/// Clamps the color between color <paramref name="min"/> and color <paramref name="max"/>.

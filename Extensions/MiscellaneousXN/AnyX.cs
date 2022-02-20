@@ -4,7 +4,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 using System.Runtime.Serialization;
 using System.Reflection;
 
-namespace Tigerros.Extensions.MiscellaneousXN {
+namespace Kontore.Extensions.MiscellaneousXN {
 	/// <summary>
 	/// Extension methods for any type.
 	/// </summary>

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace Tigerros.Extensions.StringXN {
+namespace Kontore.Extensions.StringXN {
 	/// <summary>
 	/// Extension methods for the <see cref="string"/>.
 	/// </summary>

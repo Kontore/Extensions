@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace Tigerros.Extensions.MiscellaneousXN {
+namespace Kontore.Extensions.MiscellaneousXN {
 	/// <summary>
 	/// Extension methods for the <see cref="Stopwatch"/>.
 	/// </summary>

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Tigerros.Extensions.MathXN {
+namespace Kontore.Extensions.MathXN {
 	/// <summary>
 	/// Extension methods of various types that serve a mathematical purpose.
 	/// </summary>

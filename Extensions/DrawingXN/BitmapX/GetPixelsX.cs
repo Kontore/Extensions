@@ -1,6 +1,6 @@
 ﻿using System.Drawing;
 
-namespace Tigerros.Extensions.DrawingXN {
+namespace Kontore.Extensions.DrawingXN {
 	public static partial class BitmapX {
 		/// <summary>
 		/// Gets all the pixels in this bitmap.

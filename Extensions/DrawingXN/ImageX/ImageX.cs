@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
 
-namespace Tigerros.Extensions.DrawingXN {
+namespace Kontore.Extensions.DrawingXN {
 	/// <summary>
 	/// Extension methods for the <see cref="Image"/>.
 	/// Has all the methods that the <see cref="BitmapX"/> has, but those that use the extra capabilities of the <see cref="Bitmap"/>

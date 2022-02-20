@@ -3,7 +3,7 @@ using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Runtime.Serialization;
 
-namespace Tigerros.Extensions.MiscellaneousXN {
+namespace Kontore.Extensions.MiscellaneousXN {
 	/// <summary>
 	/// Extension methods for the <see cref="Enum"/>.
 	/// </summary>

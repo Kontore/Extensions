@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Tigerros.Extensions.CollectionsXN {
+namespace Kontore.Extensions.CollectionsXN {
 	/// <summary>
 	/// Extension methods for the <see cref="IEnumerable{T}"/>.
 	/// </summary>
