@@ -18,7 +18,7 @@
 	<NeutralLanguage>en</NeutralLanguage>
 	<AssemblyName>Kontore.Extensions</AssemblyName>
 	<PackageProjectUrl>https://github.com/Kontore/Extensions</PackageProjectUrl>
-	<PackageIcon>StralsundCityHall_512x512.jpg</PackageIcon>
+	<PackageIcon>Icon.jpg</PackageIcon>
 	<PackageIconUrl />
   </PropertyGroup>
 
@@ -34,7 +34,7 @@
 
 
   <ItemGroup>
-    <None Include="..\StralsundCityHall_512x512.jpg">
+    <None Include="..\Icon.jpg">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
